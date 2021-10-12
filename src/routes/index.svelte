@@ -17,7 +17,6 @@
     <a href="https://github.com/sweepyoface"><Fa icon={faGithub} style="margin-right: 0.5rem;"/>github</a>
     <a href="https://twitter.com/sweepyoface"><Fa icon={faTwitter} style="margin-right: 0.5rem;"/>twitter</a>
     <div><Fa icon={faDiscord} style="margin-right: 0.5rem;"/>Sweepy#5624</div>
-    <a href="mailto:hello@sweepy.dev"><Fa icon={faEnvelope} style="margin-right: 0.5rem;"/>hello@sweepy.dev</a>
 </div>
 
 <img src="/wave.svg" alt="wave-shape">
