@@ -1,0 +1,11 @@
+/* Write your global styles here, in PostCSS syntax */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+    background-color: lightpink;
+    color: #313131;
+    font-family: "Stylish", sans-serif;
+    font-weight: bold;
+}
