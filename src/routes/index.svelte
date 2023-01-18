@@ -16,7 +16,7 @@
 
     <div class="flex flex-row gap-x-6 text-6xl md:text-7xl lg:text-8xl">
         <a href="https://github.com/sweepyoface"><Fa icon={faGithub} /></a>
-        <a href="https://twitter.com/sweepyoface"><Fa icon={faTwitter} /></a>
+        <a href="https://twitter.com/sweepy_twt"><Fa icon={faTwitter} /></a>
 
         <Clipboard
             text="Sweepy#5624"
