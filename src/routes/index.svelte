@@ -15,11 +15,11 @@
     <div class="text-center mt-32 text-7xl md:text-8xl lg:text-9xl">I'm Sweepy</div>
 
     <div class="flex flex-row gap-x-6 text-6xl md:text-7xl lg:text-8xl">
-        <a href="https://github.com/sweepyoface"><Fa icon={faGithub} /></a>
+        <a href="https://github.com/sweepies"><Fa icon={faGithub} /></a>
         <a href="https://twitter.com/sweepy_twt"><Fa icon={faTwitter} /></a>
 
         <Clipboard
-            text="Sweepy#5624"
+            text="sweepy"
             let:copy
             on:copy={() => {
                 if (copied) return
